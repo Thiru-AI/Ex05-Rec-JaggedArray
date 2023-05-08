@@ -53,6 +53,6 @@ class jacked
 ```
 
 ## Output:
-![OP](OP1.png)
+![1](1.png)
 ## Result:
 Thus,C# program to create a sample CPU usage on a network with 4 nodes using a jagged array is executed successfully.
